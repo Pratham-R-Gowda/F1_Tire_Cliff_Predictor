@@ -38,8 +38,8 @@ I've set this up as an interactive Streamlit dashboard so you can act as the str
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Pratham-R-Gowda/F1_Tire_Cliff_Predictor.git
+cd repo-name
 
 2. Install the F1 Data Stack:
 
