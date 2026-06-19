@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+fastf1>=3.3.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn

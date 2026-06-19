@@ -1,0 +1,7 @@
+f1_cache/
+venv/env/.env
+streamlit/
+pycache/*.py[cod]*$py.class
+..ipynb_checkpoints/
+.DS-Store Thumbs.db
+.vscode/.idea/
